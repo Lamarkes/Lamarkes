@@ -17,6 +17,7 @@
 ### Main skills:
   <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> &nbsp;
   <a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a> &nbsp;
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=dark)
 
 #### Other Skills:
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" target="_blank"></a>&nbsp;
