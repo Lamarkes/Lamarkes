@@ -10,12 +10,12 @@
 <div align="center">
   <p>
     
-  <a href="https://instagram.com/lamarkricarte"></a> <img src="https://skillicons.dev/icons?i=instagram"/>
-  <a href="mailto:lamark12ricarte@gmail.com"></a> <img src="https://skillicons.dev/icons?i=gmail" />
-  <a href="https://www.linkedin.com/in/lamarkricarte/"></a> <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://instagram.com/lamarkricarte"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="mailto:lamark12ricarte@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/lamarkricarte/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
     
 </p>
-  </div>
+</div>
   
 ### Main skills:
   <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://skillicons.dev/icons?i=java"></a>
