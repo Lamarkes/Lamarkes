@@ -46,12 +46,15 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea"></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github"></a>
   <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img src="https://skillicons.dev/icons?i=windows"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linux"></a>
  
  
 ### Studying in this moment:
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py"></a>
+  <a href="https://aws.amazon.com/pt/"><img src="https://skillicons.dev/icons?i=aws"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker"></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"></a>
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu"></a>
 <hr>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lamarkes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lamarkes github stats" /> 
